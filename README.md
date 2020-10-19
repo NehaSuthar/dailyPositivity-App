@@ -1,6 +1,10 @@
-testing this branch from Darien
-Test by Chia
-<<<<<<< HEAD
- 
-=======
->>>>>>> 62ef7d8e47d73cda4d97d6c25f4616dac0dfa9f8
+Live-Site:  https://nehasuthar.github.io/dailyPositivity-App/
+
+A responsive React-based App that allows users to take a break from their daily grind and spend some time looking at photos of nature and reading some positivity
+.The application developed using seamless integration of both the Unsplash and Quotes API.
+Application is created using HTML,CSS,JavaScript,React,React-Router
+
+
+
+
+
